@@ -1,2 +1,3 @@
 # react-cart
-code snippet for adding "weight" column in cart products table
+## About the App
+Pretty simple minicart app 
